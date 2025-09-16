@@ -51,7 +51,7 @@ On **FlyingChairs**, RAFT achieves results closest to the ground truth, with Far
    ```
 3. Open and run the notebook:
    ```bash
-   notebooks/optical_flow_tracking.ipynb
+   FlujoOptico.ipynb
    ```
 4. Required inputs:
    - videos/people2.mp4
