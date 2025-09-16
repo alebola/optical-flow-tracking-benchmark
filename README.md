@@ -3,6 +3,8 @@
 This project explores **hand tracking in video** and **optical flow estimation** using both classical computer vision algorithms and deep learning models.  
 Developed as part of the **Image, Audio and Video Processing (PIAV)** course, it benchmarks 5 approaches on the same data and provides a comparative analysis of **position** and **velocity**.
 
+📄 A detailed summary of the work is also available in the [project poster](Poster_OpticalFlow.pdf).
+
 
 ## 🎯 Objectives
 - Track the **right hand** in the `people2` video using different algorithms.  
